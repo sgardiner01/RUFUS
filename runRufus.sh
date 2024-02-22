@@ -1,6 +1,6 @@
 #!/bin/bash
 #check this dev branch thing
-
+#this is stephanie's version
 
 set -e 
 
